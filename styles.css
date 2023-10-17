@@ -50,7 +50,7 @@ img {
     background-color: #242323;
     border-radius: 5px;
     height: 100%;
-    width: 66%;
+    width: 0;
     transition: width .1s linear;
 }
 
